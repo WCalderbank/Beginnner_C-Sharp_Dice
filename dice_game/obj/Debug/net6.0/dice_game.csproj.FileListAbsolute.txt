@@ -1,0 +1,15 @@
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/bin/Debug/net6.0/dice_game
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/bin/Debug/net6.0/dice_game.deps.json
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/bin/Debug/net6.0/dice_game.runtimeconfig.json
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/bin/Debug/net6.0/dice_game.dll
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/bin/Debug/net6.0/dice_game.pdb
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/obj/Debug/net6.0/dice_game.csproj.AssemblyReference.cache
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/obj/Debug/net6.0/dice_game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/obj/Debug/net6.0/dice_game.AssemblyInfoInputs.cache
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/obj/Debug/net6.0/dice_game.AssemblyInfo.cs
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/obj/Debug/net6.0/dice_game.csproj.CoreCompileInputs.cache
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/obj/Debug/net6.0/dice_game.dll
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/obj/Debug/net6.0/refint/dice_game.dll
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/obj/Debug/net6.0/dice_game.pdb
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/obj/Debug/net6.0/dice_game.genruntimeconfig.cache
+/Users/williamscalderbank/github-classroom/Beginnner_C-Sharp_Dice/dice_game/obj/Debug/net6.0/ref/dice_game.dll
