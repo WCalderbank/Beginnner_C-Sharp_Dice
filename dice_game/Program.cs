@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 int playerRandomNum;
 int computerRandomNum;
 
@@ -17,7 +18,7 @@ Console.WriteLine("Press Enter To Roll The Dice...");
     System.Threading.Thread.Sleep(1000);
 
     computerRandomNum = random.Next(1, 7);
-    Console.WriteLine("Computer AI rolled a " + computerRandomNum);
+    Console.WriteLine("The Computer rolled a " + computerRandomNum);
 }
 
 Console.ReadKey();
